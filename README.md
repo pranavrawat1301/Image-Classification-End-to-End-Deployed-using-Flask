@@ -2,7 +2,7 @@
 This GitHub repository hosts an image classification project deploying a Convolutional Neural Network (CNN) with Flask. Users can upload images through a web interface, receiving real-time predictions on whether the image contains a cat or a dog. The project features a user-friendly interface, model persistence, and easy integration.
 
 
-# An .ipynb notebook is also provided along with .py files for quick kaggle or jupyter implementation without the use of Flask. 
+*An .ipynb notebook is also provided along with .py files for quick kaggle or jupyter implementation without the use of Flask.*
 
 
 ## Overview
