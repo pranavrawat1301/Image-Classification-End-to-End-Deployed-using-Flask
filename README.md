@@ -5,6 +5,7 @@ This GitHub repository hosts an image classification project deploying a Convolu
 https://www.kaggle.com/datasets/pranavrawat1301/cats-or-dogs-for-cnn
 
 
+
 ## Overview
 
 This GitHub repository contains an end-to-end project for image classification using a Convolutional Neural Network (CNN). The CNN model is built using Keras and trained on a dataset containing images of cats and dogs. The trained model is then deployed using Flask, allowing users to upload an image through a web interface and receive real-time predictions on whether the uploaded image is of a cat or a dog.
